@@ -1,5 +1,5 @@
 # credit_score_classification
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhodzRqdnRiNmhudTVoaXB3bWx3ZDBkNmFtNG5ycGNmNjRjZnp2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuZ2HkKJQftTVuHDV7/giphy.gif
+![giphy](https://github.com/aniksam-github/credit_score_classification/assets/105125338/2d055740-5777-4d2c-8b2b-612c5b30c4ef)
 
 Background:
 Credit scores play a vital role in determining whether an individual or business is eligible for a loan or credit. Traditional credit scoring models use a set of predefined rules and statistical models to assess creditworthiness. However, these models can be inaccurate and do not always capture the complex relationships between credit-related variables. Therefore, it is essential to have an automated system in place that can accurately predict credit scores.
